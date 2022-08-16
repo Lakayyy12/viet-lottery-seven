@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Xổ số Bình Định</string>
+
+    <string name="bt">Một trong những trò tiêu khiển yêu thích của người dân là chơi xổ số. Những ai muốn hòa mình trọn vẹn vào văn hóa Việt Nam nên học cách chơi xổ số truyền thống của Việt Nam, đặc biệt là khi những người buôn bán xổ số tràn ngập đường phố. Mỗi ngày trước 3 giờ chiều, những người bán hàng này phải bán hết vé. Những cá nhân này bán vé với lợi nhuận vài xu hoặc 10% giá vé. Mỗi chiếc vé có giá 10.000 đồng Việt Nam, nhưng đừng ngạc nhiên nếu nó được bán với giá 12.000 đồng để trang trải cuộc sống. Phần lớn những người bán vé là những người không thể kiếm được công việc ổn định hơn do khuyết tật hoặc các yếu tố khác.</string>
+    <string name="bt2">Xổ số là một trò chơi may rủi trong đó các con số được chọn ngẫu nhiên để xác định người chiến thắng.
+Mặc dù thiếu bằng chứng về mối liên hệ giữa xổ số với các vấn đề cờ bạc, nhưng xổ số là một loại hình cờ bạc, rất có thể phát sinh từ những câu chuyện về những người trúng số bị phá sản. nhanh chóng sau khi có được tài sản của họ.</string>
+    <string name="close_button" />
+    <string name="back_button" />
+
+    <string name="abt1">Một cuộc thi trong đó mã thông báo được phát hành hoặc bán, với mã thông báo chiến thắng hoặc các mã thông báo được xác định trước một cách bí mật hoặc cuối cùng được chọn trong một cuộc rút thăm ngẫu nhiên.
+Một hoạt động hoặc sự kiện được cho là có hậu quả được xác định trước.
+Một trò chơi may rủi trong đó người tham gia mua vé số và giải thưởng được trao cho những người có số được quay theo lô; thường xuyên được tài trợ bởi một nhà nước hoặc tổ chức để tăng doanh thu.</string>
+
+    <string name="abt">Kết quả xổ số của kinh doanh xổ số xác định kết quả của xổ số Việt Nam. Các tổng công ty khác chỉ có 18 con số, nhưng tổng công ty “Hà Nội” có con số 27. Khi mua vé số phải ghi các con số và loại cược. Nếu bạn đặt cược vào dãy số chính xác ở vị trí chính xác, bạn sẽ giành được giải thưởng.</string>
+
+    <string name="g1">1.Chọn tham gia xổ số.</string>
+    <string name="g2">2.Chọn số của bạn để đặt cược.</string>
+    <string name="g3">3.Mua vé để đặt cược.</string>
+    <string name="g4">4.Kiểm tra các chữ số bạn đặt cược.</string>
+    <string name="g5">5.Nhận giải thưởng từ các chữ số chiến thắng của bạn.</string>
+
+    <string name="g11">Nếu bạn không biết bắt đầu từ đâu, việc lựa chọn trò chơi chính xác từ hàng ngàn giải xổ số trên khắp thế giới có thể là quá sức, nhưng sau khi bạn nắm được những kiến thức cơ bản, bạn sẽ có đủ tự tin để chọn trò chơi phù hợp cho mình.</string>
+<string name="g22">Sử dụng các tùy chọn chọn nhanh hoặc chọn dễ cho các số được chọn ngẫu nhiên là cách đơn giản nhất để chọn số lotto của bạn. Bạn nên kiểm tra số liệu thống kê nếu bạn có con số may mắn yêu thích.</string>
+<string name="g33">Mặc dù tùy chọn này vẫn có sẵn, những ngày mua vé số chỉ trong một cửa hàng đã qua lâu. Mua vé trực tuyến là lựa chọn thuận tiện nhất. Nhiều xổ số chính thức bán vé trực tuyến thông qua các trang web hoặc ứng dụng di động, nhưng bạn phải là công dân của quốc gia được đề cập.</string>
+<string name="g44">Nhiều chương trình rút thăm được phát sóng trên truyền hình; tuy nhiên, việc kiểm tra các con số trên một trang web hoặc một ứng dụng di động có thể thuận tiện hơn. Mỗi xổ số có thời gian quay thưởng riêng và bằng cách chơi trực tuyến từ một múi giờ khác nhau, bạn có thể chơi trong đêm khuya.</string>
+<string name="g55">Bạn đã kiểm tra lại số của mìwZZ=Hn$u$fMnh và phát hiện ra rằng bạn đã thắng! Xin chúc mừng. Quá trình xác nhận giải thưởng của bạn rất đơn giản.
+Hãy lưu ý rằng mọi xổ số đều có thời hạn thanh toán, thường là từ 30 đến 180 ngày. Các giải thưởng nhỏ hơn có thể được nhận từ người bán hoặc được tự động chuyển cho bạn khi bạn chơi trực tuyến.</string>
+    <string name="splash_screen">splash_screen</string>
+
+
+</resources>

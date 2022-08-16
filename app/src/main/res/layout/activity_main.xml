@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bg"
+    tools:context=".MainActivity">
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tv1"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="Hướng dẫn về xổ số"
+        android:layout_marginTop="150dp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:background="@drawable/tabbar1"
+        android:gravity="center"
+        android:layout_marginHorizontal="20dp"
+        android:shadowColor="#FF0000"
+        android:shadowRadius="5"
+        android:textSize="17dp"/>
+
+            <TextView
+                android:id="@+id/tv2"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:text="Hướng dẫn về xổ số"
+                android:layout_marginTop="40dp"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                android:background="@drawable/tabbar1"
+                android:gravity="center"
+                android:layout_marginHorizontal="20dp"
+                android:shadowColor="#FF0000"
+                android:shadowRadius="5"
+                android:textSize="17dp"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:gravity="center">
+
+                <TextView
+                    android:id="@+id/btn1"
+                    android:layout_width="150dp"
+                    android:layout_height="60dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="30dp"
+                    android:layout_marginBottom="10dp"
+                    android:background="@drawable/tabbar1"
+                    android:text="Lời khuyên 1"
+                    android:gravity="center"
+                    android:textSize="15dp"
+                    android:textColor="@color/black"
+                    android:textStyle="bold"
+                    android:shadowRadius="5"
+                    android:shadowColor="#FF0000"/>
+
+                <TextView
+                    android:id="@+id/btn2"
+                    android:layout_width="150dp"
+                    android:layout_height="60dp"
+                    android:layout_marginTop="30dp"
+                    android:layout_marginBottom="10dp"
+                    android:background="@drawable/tabbar1"
+                    android:text="Lời khuyên 2"
+                    android:gravity="center"
+                    android:textSize="15dp"
+                    android:textColor="@color/black"
+                    android:textStyle="bold"
+                    android:shadowRadius="5"
+                    android:shadowColor="#FF0000"/>
+
+            </LinearLayout>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="180dp"
+                android:background="@drawable/navbar01"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="20dp"
+                android:layout_marginHorizontal="20dp"/>
+
+
+
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+</LinearLayout>
